@@ -50,7 +50,7 @@ body {
     position: absolute;
     transform: translate(50%, 35%);
     border-radius: 53% 45% 46% 57%/51% 53% 54% 47%;
-    z-index: 9999;
+    z-index: 999;
     background: radial-gradient(
         circle 0.25em at 5.2em 17em,
         #b39e48 100%,
